@@ -1,0 +1,130 @@
+
+@misc{rsgroup,
+author =     {Balabanovic, M., Shoham, Y.},
+title =      {Group Modeling: Selecting a Sequence of Television Items to Suit a Group of Viewers},
+howpublished = "\url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.329.8993&rep=rep1&type=pdf}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+@misc{porsuit,
+author =     {Masthoff, J.},
+title =      {The Pursuit of Satisfaction: Affective State in Group Recommender Systems},
+howpublished = "\url{https://pdfs.semanticscholar.org/6abc/6a56c5dfc0d54dd8c509de2a77bdb633f5f3.pdf}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+@misc{brokenw,
+author =     {Wikipedia},
+title =      {Теория разбитых окон},
+howpublished = "\url{https://en.wikipedia.org/wiki/Broken_windows_theory}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+@misc{oregon,
+author =     {Oregons's government},
+title =      {Metro (Oregon regional government},
+howpublished = "\url{https://www.oregonmetro.gov/}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+@misc{nextdoor,
+author = "Sarah Leary, Nirav Tolia, Prakash Janakiraman and David Wiesen",
+title = "Nextdoor is a private social networking service for neighborhoods",
+howpublished = "\url{https://en.wikipedia.org/wiki/Nextdoor}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+@misc{shared_economy,
+author = "Wikipedia",
+title = "Совместное_потребление",
+howpublished = "\url{https://ru.wikipedia.org/wiki/Совместное_потребление}",
+note = "[Online; accessed 17-April-2018]"
+language =     "russian"
+}
+
+@misc{planned_obsolescence,
+author = "Wikipedia",
+title = "Planned obsolescence",
+howpublished = "\url{https://en.wikipedia.org/wiki/Planned_obsolescence}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+@misc{screenless,
+author = "Gunjan Malani",
+title = "Screenless Display Market Analysis Forecast to 2015 – 2020",
+howpublished = "\url{https://www.alliedmarketresearch.com/screenless-display-market}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+@misc{topn,
+author = "Bita Shams and Saman Haratizadeh ",
+title = "Graph-based Collaborative Ranking",
+howpublished = "\url{https://arxiv.org/pdf/1604.03147.pdf}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+
+@misc{topn,
+author = "MUKUND DESHPANDE and GEORGE KARYPIS",
+title = "Item-Based Top-N Recommendation Algorithms",
+howpublished = "\url{http://glaros.dtc.umn.edu/gkhome/fetch/papers/itemrsTOIS04.pdf}",
+note = "[Online; accessed 17-April-2018]"
+language =     "english"
+}
+
+@misc{amazon,
+author = "Greg Linden, Brent Smith, and Jeremy York",
+title = "Item-to-Item Collaborative Filtering",
+howpublished = "\url{http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf}",
+note = "[Online; accessed 26-May-2018]"
+language =     "english"
+}
+
+@misc{tdidf,
+author = "Álvaro Santos Andres",
+title = "Creating a Recommender System",
+howpublished = "\url{https://events.static.linuxfound.org/sites/events/files/slides/Apache_Big_Data_2017_Presentation.pdf}",
+note = "[Online; accessed 26-May-2018]"
+language =     "english"
+}
+
+@misc{tdidfwiki,
+author = "Wikipedia",
+title = "Tf-idf",
+howpublished = "\url{https://es.wikipedia.org/wiki/Tf-idf}",
+note = "[Online; accessed 26-May-2018]"
+language =     "english"
+}
+
+@misc{retrieve,
+author = "Gerard Salton and Chris Buckley Depattment of Computer Science, Cornell University, Ithaca, NY",
+title = "Improving Retrieval Performance by Relevance Feedback",
+howpublished = "\url{http://www.cs.ucr.edu/~vagelis/classes/CS172/publications/jasistSalton1990.pdf}",
+note = "[Online; accessed 26-May-2018]"
+language =     "english"
+}
+
+
+@misc{lakes,
+author = "Amazon AWS homesite",
+title = "Data Lakes compared to Data Warehouses – two different approaches",
+howpublished = "\url{https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/}",
+note = "[Online; accessed 26-May-2018]"
+language =     "english"
+}
+
+
+@misc{metrics,
+author = "Denis Parra, a PhD student at University of Pittsburgh",
+title = "The 10 recommender system metrics you should know about",
+howpublished = "\url{http://bickson.blogspot.ru/2012/10/the-10-recommender-system-metrics-you.html}",
+note = "[Online; accessed 17-April-2018]"
+}

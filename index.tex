@@ -1,0 +1,52 @@
+
+
+ \documentclass[utf8x, 12pt]{G7-32} 
+
+\usepackage{amsmath}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+\include{preamble.inc}
+\include{listings.inc}
+\include{macros.inc}
+
+\begin{document}
+
+\frontmatter 
+
+\include{00-title}
+
+\tableofcontents
+\setcounter{page}{3}
+\include{12-intro}
+
+\mainmatter
+
+\include{20-analysis}
+
+\include{21-formulation}
+%\include{21-formulation-colaborative}
+\include{21-formulation-barrios-incidentes}
+\include{21-formulation-barrios-ideas}
+\include{30-design}
+\include{40-tecno}
+\include{50-conclusion}
+
+
+\backmatter
+
+%\include{80-conclusion}
+
+\bibliographystyle{gost780u}
+\bibliography{index.bib}
+
+\appendix
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+\grid

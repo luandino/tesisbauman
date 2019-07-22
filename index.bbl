@@ -1,0 +1,320 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{data_mining}
+\selectlanguageifdefined{english}
+\BibEmph{Anand~Rajaraman,~Jure~Leskovec}. Mining of Massive Datasets~/
+  Jure~Leskovec~Anand~Rajaraman, Jeffrey~D.~Ullman. ---
+\newblock Milliway Labs - Stanford Univ., 2010.
+
+\bibitem{porsuit}
+\selectlanguageifdefined{english}
+\BibEmph{Masthoff,~J.} The Pursuit of Satisfaction: Affective State in Group
+  Recommender Systems.
+
+\bibitem{brokenw}
+\selectlanguageifdefined{english}
+\BibEmph{Wikipedia}. Теория разбитых окон. ---
+\newblock \url{https://en.wikipedia.org/wiki/Broken_windows_theory}. ---
+\newblock [Online; accessed 17-April-2018].
+
+\bibitem{oregon}
+\selectlanguageifdefined{english}
+\BibEmph{government,~Oregons's}. Metro (Oregon regional government. ---
+\newblock \url{https://www.oregonmetro.gov/}. ---
+\newblock [Online; accessed 17-April-2018].
+
+\bibitem{nextdoor}
+\selectlanguageifdefined{english}
+\BibEmph{Sarah~Leary~Nirav~Tolia,~Prakash~Janakiraman}. Nextdoor is a private
+  social networking service for neighborhoods. ---
+\newblock \url{https://en.wikipedia.org/wiki/Nextdoor}. ---
+\newblock [Online; accessed 17-April-2018].
+
+\bibitem{recommender_system}
+\selectlanguageifdefined{english}
+\BibEmph{Resnick,~Paul}. Recommender systems. ---
+\newblock
+  \url{https://www.ischool.utexas.edu/~i385d/readings/Resnick_Recommender_97.pdf}.
+  ---
+\newblock [Online; accessed 28-May-2018].
+
+\bibitem{filtering_system}
+\selectlanguageifdefined{english}
+\BibEmph{Shams,~Bita}. Graph-based Collaborative Ranking. ---
+\newblock \url{https://arxiv.org/pdf/1604.03147.pdf}. ---
+\newblock [Online; accessed 17-April-2018].
+
+\bibitem{shared_economy}
+\selectlanguageifdefined{english}
+\BibEmph{Wikipedia}. Collaborative consumption. ---
+\newblock \url{https://en.wikipedia.org/wiki/Collaborative_consumption}. ---
+\newblock [Online; accessed 17-April-2018].
+
+\bibitem{planned_obsolescence}
+\selectlanguageifdefined{english}
+\BibEmph{Wikipedia}. Planned obsolescence. ---
+\newblock \url{https://en.wikipedia.org/wiki/Planned_obsolescence}. ---
+\newblock [Online; accessed 17-April-2018].
+
+\bibitem{screenless}
+\selectlanguageifdefined{english}
+\BibEmph{Malani,~Gunjan}. Screenless Display Market Analysis Forecast to 2015
+  – 2020. ---
+\newblock \url{https://www.alliedmarketresearch.com/screenless-display-market}.
+  ---
+\newblock [Online; accessed 17-April-2018].
+
+\bibitem{topn}
+\selectlanguageifdefined{english}
+\BibEmph{DESHPANDE,~MUKUND}. Item-Based Top-N Recommendation Algorithms. ---
+\newblock \url{http://glaros.dtc.umn.edu/gkhome/fetch/papers/itemrsTOIS04.pdf}.
+  ---
+\newblock [Online; accessed 17-April-2018].
+
+\bibitem{hla}
+\selectlanguageifdefined{english}
+\BibEmph{Wikipedia}. High Level Arquitecture. ---
+\newblock \url{https://en.wikipedia.org/wiki/High-level_architecture}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{rti}
+\selectlanguageifdefined{english}
+\BibEmph{Wikipedia}. Runtime infraestructure. ---
+\newblock
+  \url{http://www.openrobots.org/morse/doc/1.3/user/multinode/hla.html}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{lakes}
+\selectlanguageifdefined{english}
+\BibEmph{homesite,~Amazon~AWS}. Data Lakes compared to Data Warehouses – two
+  different approaches. ---
+\newblock
+  \url{https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/}.
+  ---
+\newblock [Online; accessed 26-May-2018].
+
+\bibitem{retrieve}
+\selectlanguageifdefined{english}
+\BibEmph{Salton,~Gerard}. Improving Retrieval Performance by Relevance
+  Feedback. ---
+\newblock book. ---
+\newblock [Online; accessed 26-May-2018].
+
+\bibitem{amazon}
+\selectlanguageifdefined{english}
+\BibEmph{Greg~Linden,~Brent~Smith}. Item-to-Item Collaborative Filtering.
+
+\bibitem{revitalization}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-downtown-revitalization. ---
+\newblock
+  \url{http://www.oregonmetro.gov/es/tools-partners/guides-and-tools/guide-downtown-revitalization}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{development}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-nature-friendly-development. ---
+\newblock
+  \url{http://www.oregonmetro.gov/es/guide-nature-friendly-development}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{streets}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-safe-and-healthy-streets. ---
+\newblock
+  \url{http://www.oregonmetro.gov/es/tools-partners/guides-and-tools/guide-safe-and-healthy-streets}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{toolkit}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. community-investment-toolkit. ---
+\newblock
+  \url{http://www.oregonmetro.gov/es/tools-partners/guides-and-tools/community-investment-toolkit}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{plans}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. local-transportation-system-plans. ---
+\newblock
+  \url{http://www.oregonmetro.gov/es/local-transportation-system-plans}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{housing}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-equitable-housing. ---
+\newblock
+  \url{http://www.oregonmetro.gov/es/tools-partners/guides-and-tools/guide-equitable-housing}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{living}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. tools-living. ---
+\newblock \url{https://www.oregonmetro.gov/tools-living}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{recycling}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. garbage-and-recycling. ---
+\newblock \url{https://www.oregonmetro.gov/tools-living/garbage-and-recycling}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{home}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. healthy-home. ---
+\newblock \url{https://www.oregonmetro.gov/tools-living/healthy-home}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{around}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. getting-around. ---
+\newblock \url{https://www.oregonmetro.gov/tools-living/getting-around}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{working}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. tools-working. ---
+\newblock \url{https://www.oregonmetro.gov/tools-working}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{waste}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. reducing-food-waste. ---
+\newblock \url{https://www.oregonmetro.gov/tools-working/reducing-food-waste}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{work}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-recycling-work. ---
+\newblock \url{https://www.oregonmetro.gov/tools-working/guide-recycling-work}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{disposal}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-small-business-hazardous-waste-disposal. ---
+\newblock
+  \url{https://www.oregonmetro.gov/tools-working/guide-small-business-hazardous-waste-disposal}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{pwaste}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-managing-paint-waste. ---
+\newblock
+  \url{https://www.oregonmetro.gov/tools-working/guide-managing-paint-waste}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{centers}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-toxics-free-child-care-centers. ---
+\newblock
+  \url{https://www.oregonmetro.gov/tools-working/guide-toxics-free-child-care-centers}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{license}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. regional-contractors-business-license. ---
+\newblock
+  \url{https://www.oregonmetro.gov/tools-working/regional-contractors-business-license}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{operators}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. tools-haulers-and-facility-operators. ---
+\newblock
+  \url{https://www.oregonmetro.gov/tools-working/tools-haulers-and-facility-operators}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{employers}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guide-travel-options-employers. ---
+\newblock
+  \url{https://www.oregonmetro.gov/tools-working/guide-travel-options-employers}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{partners}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. tools-partners. ---
+\newblock \url{https://www.oregonmetro.gov/tools-partners}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{resources}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. grants-and-resources. ---
+\newblock
+  \url{https://www.oregonmetro.gov/tools-partners/grants-and-resources}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{tools}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. guides-and-tools. ---
+\newblock \url{https://www.oregonmetro.gov/tools-partners/guides-and-tools}.
+  ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{center}
+\selectlanguageifdefined{english}
+\BibEmph{Oregonmetro}. data-resource-center. ---
+\newblock
+  \url{https://www.oregonmetro.gov/tools-partners/data-resource-center}. ---
+\newblock [Online; accessed 25-Jun-2018].
+
+\bibitem{predictionio}
+\selectlanguageifdefined{english}
+\BibEmph{Apache}. PredictionIO. ---
+\newblock \url{https://predictionio.apache.org/}. ---
+\newblock [Online; accessed 27-June-2018].
+
+\bibitem{ec2}
+\selectlanguageifdefined{english}
+\BibEmph{Cloud,~Amazon Elastic~Compute}. Amazon EC2. ---
+\newblock
+  \url{https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/concepts.html}.
+  ---
+\newblock [Online; accessed 27-June-2018].
+
+\bibitem{bigdata}
+\selectlanguageifdefined{english}
+\BibEmph{Wikipedia}. Big Data que es. ---
+\newblock
+  \url{https://www.bit.es/knowledge-center/que-es-big-data-introduccion-a-big-data/}.
+  ---
+\newblock [Online; accessed 27-June-2018].
+
+\bibitem{mysql}
+\selectlanguageifdefined{english}
+\BibEmph{Wikipedia}. Mysql. ---
+\newblock \url{https://ru.wikipedia.org/wiki/MySQL}. ---
+\newblock [Online; accessed 27-June-2018].
+
+\bibitem{sql}
+\selectlanguageifdefined{english}
+\BibEmph{w3schools}. sql tutoria. ---
+\newblock \url{https://www.w3schools.com/sql/}. ---
+\newblock [Online; accessed 27-June-2018].
+
+\bibitem{comparison}
+\selectlanguageifdefined{english}
+\BibEmph{Edureka}. Apache Spark beginners guide. ---
+\newblock \url{https://www.edureka.co/blog/spark-tutorial//}. ---
+\newblock [Online; accessed 27-June-2018].
+
+\end{thebibliography}
